@@ -1,24 +1,17 @@
 # Root BlueStacks Air macOS
 
-## Tested on BlueStacks Air
+## Works best on 
 
-- 5.21.680.7532
-- 5.21.695.7506
-- 5.21.700.7523
-- 5.21.705.7515
-- 5.21.712.7503
-- 5.21.715.7538
-- 5.21.720.7530
-- 5.21.730.7536
-- 5.21.735.7518
-- 5.21.745.7536
+- Bluestacks air 5.21.725.7518
 
 ![Screenshot](/images/bluestacks-air-root-magisk.png)
 
 ## Requirements
 
-- [BlueStacks Air](https://www.bluestacks.com/mac)
-- [Kitsune Magisk](https://github.com/1q23lyc45/KitsuneMagisk/releases)  
+<!-- [BlueStacks Air ](https://www.bluestacks.com/mac) -->
+- [Bluestacks Air 5.21.725.7518](https://bluestacks.fileion.com/mac/version/5.21.725.7518/download) 
+<!-- - [Kitsune Magisk](https://github.com/1q23lyc45/KitsuneMagisk/releases)  -->
+- Kitsune Magisk 
   Tested version: v27.2-kitsune-4
 
 ## Rooting
