@@ -15,17 +15,14 @@
 
 ## Steps to downgrade:
 ### Backing up:
-Here, you have two options. 
-1: 
-
-
-2: **Manually copying the data.qcow2 file**
+**Manually copying the data.qcow2 file**
 > [!CAUTION]
 > To do this safely, you should have more than 50 gb of disk space left on your computer. If not, data may not complete backing up.
 ```bash 
 cd "/Users/Shared/Library/Application Support/BlueStacks/Engine/"
 open .
 ```
+After running these commands, a finder window will open. Based on how many Bluestacks instances you have,
 
 
 ## Rooting
