@@ -11,8 +11,19 @@
 <!-- [BlueStacks Air ](https://www.bluestacks.com/mac) -->
 - [Bluestacks Air 5.21.725.7518](https://bluestacks.fileion.com/mac/version/5.21.725.7518/download) 
 <!-- - [Kitsune Magisk](https://github.com/1q23lyc45/KitsuneMagisk/releases)  -->
-- Kitsune Magisk 
-  Tested version: v27.2-kitsune-4
+- Kitsune Magisk | v27.2-kitsune-4 (Already in this repo)
+
+## Steps to downgrade:
+### Backing up:
+Here, you have two options. 
+1:
+
+
+2: **Manually copying the data.qcow2 file**
+> [!CAUTION]
+> To do this safely, you should have more than 50 gb of disk space left on your computer. If not, data may not complete backing up.
+
+
 
 ## Rooting
 
