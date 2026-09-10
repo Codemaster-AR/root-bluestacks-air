@@ -22,7 +22,8 @@
 cd "/Users/Shared/Library/Application Support/BlueStacks/Engine/"
 open .
 ```
-After running these commands, a finder window will open. Based on how many Bluestacks instances you have,
+After running these commands, a finder window will open. Based on how many Bluestacks instances you have, you will see something like Triami.m64, or triam1.x64, so to back up the instance you want to save, copy the triami.64 and paste it in another folder that is NOT CONNECTED TO ICLOUD SYNC.
+Now you have your instanced backed up.
 
 
 ## Rooting
@@ -51,7 +52,7 @@ After running these commands, a finder window will open. Based on how many Blues
 - Start BlueStacks Air
 - Continue with [Next Steps](#next-steps)
 
-### Method 2: SIP disabled
+### Method 2: SIP disabled (Recommended)
 
 - Execute `root.sh` with sudo
 
