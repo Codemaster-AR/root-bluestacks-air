@@ -90,6 +90,4 @@ Now you have your instanced backed up.
 
 - Done
 
-### Buy me a coffee
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://paypal.me/hanreev)
